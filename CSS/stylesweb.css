@@ -57,6 +57,7 @@ p {
 .profile-picture {
   width: 15%;
   filter: grayscale(50%);
+  border-radius: 50%; 
 }
 .profile-text {
   color: #40514E;
